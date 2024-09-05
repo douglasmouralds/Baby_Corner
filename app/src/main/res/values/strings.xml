@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Baby Corner</string>
+    <string name="title_name">Canto do Bebê</string>
+    <string name="sub_title">O companheiro perfeito para cada momento do seu bebê</string>
+    <string name="box_1">Histórias Infantis</string>
+    <string name="box_2">Músicas e Sons</string>
+    <string name="box_3">Agenda de Cuidados</string>
+    <string name="box_4">Jogos e Atividades</string>
+    <string name="box_5">Diário do Bebê</string>
+    <string name="box_6">Receitas para Bebês</string>
+    <string name="home">Início</string>
+    <string name="favorite">Favoritos</string>
+    <string name="settings">Configurações</string>
+</resources>
